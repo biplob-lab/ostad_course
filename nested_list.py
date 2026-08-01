@@ -15,9 +15,9 @@ print (m) """
 odds = [e for r in  m for e in r if e %2 !=0]
 print (set(odds)) """
 
-m = [["apple","banana","cherry"],
+""" m = [["apple","banana","cherry"],
      ["date","grape","lichi"]]
 capitalize = [[f.capitalize() for f in r] for r in m]
-print(capitalize)
+print(capitalize) """
 
 
